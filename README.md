@@ -1,4 +1,6 @@
 REALTIME CHAT-APPLICATION
+
+
 A react based web application which allow users to chat in real time.
 – Authentication & Authorization with JWT , Cloudinary for handling images and media, MongoDB for storing data , Express is used for Server-side framework for routing/API,React Frontend UI and Node.js for Runtime for Express and server-side code.
 – Technology Used: Reactjs, MongoDB, Express, Nodejs, Cloudinary, Socket.io, TailwindCSS, Daisy UI.
